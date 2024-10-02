@@ -1,4 +1,0 @@
-disabled_rules:
-  - function_body_length
-  - file_length
-strict: true

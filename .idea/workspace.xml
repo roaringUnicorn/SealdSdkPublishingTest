@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="50d725bb-2eed-484a-8b56-88137bf4f7bf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Package.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SealdSdk/Frameworks/SealdSdkInternals.xcframework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SealdSdk/Frameworks/SealdSdkInternals.xcframework/ios-arm64/SealdSdkInternals.framework/Headers/SealdSdkInternals.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SealdSdk/Frameworks/SealdSdkInternals.xcframework/ios-arm64/SealdSdkInternals.framework/Headers/SealdSdkInternalsMobile_sdk.objc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SealdSdk/Frameworks/SealdSdkInternals.xcframework/ios-arm64/SealdSdkInternals.framework/Headers/Universe.objc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SealdSdk/Frameworks/SealdSdkInternals.xcframework/ios-arm64/SealdSdkInternals.framework/Headers/ref.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SealdSdk/Frameworks/SealdSdkInternals.xcframework/ios-arm64/SealdSdkInternals.framework/Modules/module.modulemap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SealdSdk/Frameworks/SealdSdkInternals.xcframework/ios-arm64/SealdSdkInternals.framework/Resources/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SealdSdk/Frameworks/SealdSdkInternals.xcframework/ios-arm64/SealdSdkInternals.framework/SealdSdkInternals" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SealdSdk/Frameworks/SealdSdkInternals.xcframework/ios-arm64/SealdSdkInternals.framework/Versions/A/Headers/SealdSdkInternals.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SealdSdk/Frameworks/SealdSdkInternals.xcframework/ios-arm64/SealdSdkInternals.framework/Versions/A/Headers/SealdSdkInternalsMobile_sdk.objc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SealdSdk/Frameworks/SealdSdkInternals.xcframework/ios-arm64/SealdSdkInternals.framework/Versions/A/Headers/Universe.objc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SealdSdk/Frameworks/SealdSdkInternals.xcframework/ios-arm64/SealdSdkInternals.framework/Versions/A/Headers/ref.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SealdSdk/Frameworks/SealdSdkInternals.xcframework/ios-arm64/SealdSdkInternals.framework/Versions/A/Modules/module.modulemap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SealdSdk/Frameworks/SealdSdkInternals.xcframework/ios-arm64/SealdSdkInternals.framework/Versions/A/Resources/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SealdSdk/Frameworks/SealdSdkInternals.xcframework/ios-arm64/SealdSdkInternals.framework/Versions/A/SealdSdkInternals" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SealdSdk/Frameworks/SealdSdkInternals.xcframework/ios-arm64/SealdSdkInternals.framework/Versions/Current/Headers/SealdSdkInternals.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SealdSdk/Frameworks/SealdSdkInternals.xcframework/ios-arm64/SealdSdkInternals.framework/Versions/Current/Headers/SealdSdkInternalsMobile_sdk.objc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SealdSdk/Frameworks/SealdSdkInternals.xcframework/ios-arm64/SealdSdkInternals.framework/Versions/Current/Headers/Universe.objc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SealdSdk/Frameworks/SealdSdkInternals.xcframework/ios-arm64/SealdSdkInternals.framework/Versions/Current/Headers/ref.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SealdSdk/Frameworks/SealdSdkInternals.xcframework/ios-arm64/SealdSdkInternals.framework/Versions/Current/Modules/module.modulemap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SealdSdk/Frameworks/SealdSdkInternals.xcframework/ios-arm64/SealdSdkInternals.framework/Versions/Current/Resources/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SealdSdk/Frameworks/SealdSdkInternals.xcframework/ios-arm64/SealdSdkInternals.framework/Versions/Current/SealdSdkInternals" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SealdSdk/Frameworks/SealdSdkInternals.xcframework/ios-arm64_x86_64-simulator/SealdSdkInternals.framework/Headers/SealdSdkInternals.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SealdSdk/Frameworks/SealdSdkInternals.xcframework/ios-arm64_x86_64-simulator/SealdSdkInternals.framework/Headers/SealdSdkInternalsMobile_sdk.objc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SealdSdk/Frameworks/SealdSdkInternals.xcframework/ios-arm64_x86_64-simulator/SealdSdkInternals.framework/Headers/Universe.objc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SealdSdk/Frameworks/SealdSdkInternals.xcframework/ios-arm64_x86_64-simulator/SealdSdkInternals.framework/Headers/ref.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SealdSdk/Frameworks/SealdSdkInternals.xcframework/ios-arm64_x86_64-simulator/SealdSdkInternals.framework/Modules/module.modulemap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SealdSdk/Frameworks/SealdSdkInternals.xcframework/ios-arm64_x86_64-simulator/SealdSdkInternals.framework/Resources/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SealdSdk/Frameworks/SealdSdkInternals.xcframework/ios-arm64_x86_64-simulator/SealdSdkInternals.framework/SealdSdkInternals" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SealdSdk/Frameworks/SealdSdkInternals.xcframework/ios-arm64_x86_64-simulator/SealdSdkInternals.framework/Versions/A/Headers/SealdSdkInternals.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SealdSdk/Frameworks/SealdSdkInternals.xcframework/ios-arm64_x86_64-simulator/SealdSdkInternals.framework/Versions/A/Headers/SealdSdkInternalsMobile_sdk.objc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SealdSdk/Frameworks/SealdSdkInternals.xcframework/ios-arm64_x86_64-simulator/SealdSdkInternals.framework/Versions/A/Headers/Universe.objc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SealdSdk/Frameworks/SealdSdkInternals.xcframework/ios-arm64_x86_64-simulator/SealdSdkInternals.framework/Versions/A/Headers/ref.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SealdSdk/Frameworks/SealdSdkInternals.xcframework/ios-arm64_x86_64-simulator/SealdSdkInternals.framework/Versions/A/Modules/module.modulemap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SealdSdk/Frameworks/SealdSdkInternals.xcframework/ios-arm64_x86_64-simulator/SealdSdkInternals.framework/Versions/A/Resources/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SealdSdk/Frameworks/SealdSdkInternals.xcframework/ios-arm64_x86_64-simulator/SealdSdkInternals.framework/Versions/A/SealdSdkInternals" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SealdSdk/Frameworks/SealdSdkInternals.xcframework/ios-arm64_x86_64-simulator/SealdSdkInternals.framework/Versions/Current/Headers/SealdSdkInternals.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SealdSdk/Frameworks/SealdSdkInternals.xcframework/ios-arm64_x86_64-simulator/SealdSdkInternals.framework/Versions/Current/Headers/SealdSdkInternalsMobile_sdk.objc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SealdSdk/Frameworks/SealdSdkInternals.xcframework/ios-arm64_x86_64-simulator/SealdSdkInternals.framework/Versions/Current/Headers/Universe.objc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SealdSdk/Frameworks/SealdSdkInternals.xcframework/ios-arm64_x86_64-simulator/SealdSdkInternals.framework/Versions/Current/Headers/ref.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SealdSdk/Frameworks/SealdSdkInternals.xcframework/ios-arm64_x86_64-simulator/SealdSdkInternals.framework/Versions/Current/Modules/module.modulemap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SealdSdk/Frameworks/SealdSdkInternals.xcframework/ios-arm64_x86_64-simulator/SealdSdkInternals.framework/Versions/Current/Resources/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SealdSdk/Frameworks/SealdSdkInternals.xcframework/ios-arm64_x86_64-simulator/SealdSdkInternals.framework/Versions/Current/SealdSdkInternals" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/test-package-swift.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doxyfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README_DEV.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_objc/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_objc/Podfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_objc/Podfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_objc/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_objc/SealdSDK demo app ios.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_objc/SealdSDK demo app ios.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_objc/SealdSDK demo app ios.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_objc/SealdSDK demo app ios.xcodeproj/xcshareddata/xcschemes/SealdSDK-Example.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_objc/SealdSDK demo app ios.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_objc/SealdSDK demo app ios.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_objc/SealdSDK/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_objc/SealdSDK/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_objc/SealdSDK/Images.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_objc/SealdSDK/JWTBuilder.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_objc/SealdSDK/JWTBuilder.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_objc/SealdSDK/SEALDSDKAppDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_objc/SealdSDK/SEALDSDKAppDelegate.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_objc/SealdSDK/SEALDSDKViewController.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_objc/SealdSDK/SEALDSDKViewController.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_objc/SealdSDK/SealdSDK demo app ios-Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_objc/SealdSDK/SealdSDK demo app ios-Prefix.pch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_objc/SealdSDK/credentials.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_objc/SealdSDK/credentials.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_objc/SealdSDK/credentials.m_staging" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_objc/SealdSDK/en.lproj/InfoPlist.strings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_objc/SealdSDK/main.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_objc/SealdSDK/ssksBackend.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_objc/SealdSDK/ssksBackend.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_objc/Tests/Tests-Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_objc/Tests/Tests-Prefix.pch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_objc/Tests/Tests.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_objc/Tests/en.lproj/InfoPlist.strings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_swift/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_swift/.swiftlint.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_swift/Podfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_swift/Podfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_swift/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_swift/SealdSDK demo app ios swift.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_swift/SealdSDK demo app ios swift.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_swift/SealdSDK demo app ios swift.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_swift/SealdSDK demo app ios swift.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_swift/SealdSDK demo app ios swift.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_swift/seald-sdk-demo-app-ios-swift/Assets.xcassets/AccentColor.colorset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_swift/seald-sdk-demo-app-ios-swift/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_swift/seald-sdk-demo-app-ios-swift/Assets.xcassets/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_swift/seald-sdk-demo-app-ios-swift/ContentView.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_swift/seald-sdk-demo-app-ios-swift/Preview Content/Preview Assets.xcassets/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_swift/seald-sdk-demo-app-ios-swift/credentials.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_swift/seald-sdk-demo-app-ios-swift/credentials.swift_staging" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_swift/seald-sdk-demo-app-ios-swift/jwt_builder.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_swift/seald-sdk-demo-app-ios-swift/seald_sdk_demo_app_ios_swiftApp.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_swift/seald-sdk-demo-app-ios-swift/ssks_backend.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_swift/seald-sdk-demo-app-ios-swiftTests/seald_sdk_demo_app_ios_swiftTests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_swift/seald-sdk-demo-app-ios-swiftUITests/sealdSdkDemoAppIosSwiftUITests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_swift/seald-sdk-demo-app-ios-swiftUITests/sealdSdkDemoAppIosSwiftUITestsLaunchTests.swift" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" url="file:///usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2msrTAHCBplHwBGuuxypjJKHLpL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.format.on.save.advertiser.fired": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "RunOnceActivity.go.watchers.conflict.with.on.save.actions.check.performed": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "last_opened_file_path": "/Users/seald/seald/test-package-swift",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Sources" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
