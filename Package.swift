@@ -29,6 +29,6 @@ let package = Package(
         // ),
         .target(
             name: "SealdSdkObjC",
-            publicHeadersPath: "Sources/SealdSdk/Classes")
+            publicHeadersPath: "Sources/SealdSdkObjC/Classes")
     ]
 )
