@@ -11,18 +11,26 @@ let package = Package(
     products: [
         // Products define the executables and libraries a package produces, and make them visible to other packages.
         .library(
-            name: "SealdSdkPublishingTest",
-            targets: ["SealdSdk"]),
+            name: "SealdSdk",
+            targets: ["SealdSdkSwift", "SealdSdkObjC", "SealdSdkBinary"])
     ],
     dependencies: [
         // Dependencies declare other packages that this package depends on.
-        // .package(url: /* package url */, from: "1.0.0"),
+        // .package(url: "https://url/of/another/package.git", from: "1.0.0")
     ],
     targets: [
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .target(
-            name: "SealdSdkPublishingTest",
-            path: "SealdSdkPublishingTest/SealdSdk")
+            name: "SealdSdkSwift",
+            path: "SealdSdk/swift"),
+        // .binaryTarget(
+        //     name: "SealdSdkBinary",
+        //     path: "SealdSdk/objc/Frameworks/SealdSdkInternals.xcframework"
+        // ),
+        .target(
+            name: "SealdSdkObjC",
+            path: "SealdSdk/objc",
+            publicHeadersPath: "SealdSdk/objc/Classes")
     ]
 )
